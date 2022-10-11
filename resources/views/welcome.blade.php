@@ -23,7 +23,11 @@
     <body >
           <p> ................................................hello kowsar</p>
           <p> --------------I have cloned it properly bro...---------</p>
+<<<<<<< HEAD
           <p>---------------I have edited and pushed it again.-------</p>
 
+=======
+<p> ........... edit it 2nd time .........</p>
+>>>>>>> 496ba88e082074a474303cf37cde4b5cf5f4e51e
     </body>
 </html>
